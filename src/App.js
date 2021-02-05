@@ -6,7 +6,7 @@ import Info from "./Components/Info.js";
 function App() {
   return (
     <div className="App">
-      <Card />
+      {/* <Card /> */}
       <Info />
     </div>
   );
